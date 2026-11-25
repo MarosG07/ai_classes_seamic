@@ -52,6 +52,7 @@ instructions.
 Start here:
 
 - [Class 1 – Linux, Python tooling and Git](class_1/README.md)
+- [Class 2 – Python application development](class_2/README.md)
 
 Further class materials will be added to their respective folders.
 

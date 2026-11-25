@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Environments and packaging
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+
+# Tool caches and coverage
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local document corpus and generated database files
+/data/*
+!/data/.gitkeep
+*.sqlite
+*.sqlite3
+*.db
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
